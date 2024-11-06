@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * 
+ */
+module EbacProjeto {
+	requires junit;
+}
